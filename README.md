@@ -1,12 +1,12 @@
 # arshsharma
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Arsh Sharma 
 
 ## About Me
-- 🎓 I'm a student learning programming
-- 💻 I'm currently working on my coding skills
-- 🌱 Learning: Python, JavaScript, and web development
-- 📫 How to reach me: [your-email@gmail.com]
-- 😄 Pronouns: [Your pronouns]
+-  I'm a student learning programming
+-  I'm currently working on my coding skills
+-  Learning: Python, JavaScript, and web development
+-  How to reach me: [your-email@gmail.com]
+-  Pronouns: [Your pronouns]
 
 ## My Skills
 - **Languages:** Python, JavaScript, HTML, CSS
